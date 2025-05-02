@@ -329,7 +329,6 @@ label {
 
 .form__image {
   flex: 1;
-  background: url('/static/for.png') no-repeat center/cover;
 }
 
 .view__svg {

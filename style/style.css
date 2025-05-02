@@ -337,10 +337,6 @@ label {
   height: 16px;
 }
 
-footer {
-
-}
-
 .footer__menu {
   display: flex;
   flex-direction: column;
